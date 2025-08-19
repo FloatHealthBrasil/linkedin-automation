@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "linkedin-automation",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "linkedin-automation-db",
+      "database_id": "3d8b76a1-0154-4582-8914-bdf87df8f558"
+    }
+  ]
+}
